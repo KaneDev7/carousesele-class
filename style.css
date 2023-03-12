@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:  100vh;
+    background: #222222;
+    
+}
+
+section {
+    width: 75%;
+}
+
+
+.card{
+    background: white;
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
+.card h2{
+    margin-bottom: 20px;
+}
+.card button{
+    width: 100%;
+    height: 50px;
+    border: none;
+    background: green;
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+}

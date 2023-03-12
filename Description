@@ -1,0 +1,11 @@
+Création d'un carousel
+
+objetctif :
+
+Creer un carousel modulable et personalisable. Avec un systeme qui permet de modifier le nombre d'element visible et la quantité
+d'elements à scroller. 
+
+les etapes :
+
+le programme doit avoir une classe container unique.
+les element doivent etre dans un div avec une class item 
